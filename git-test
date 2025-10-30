@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Server Performance Dashboard</title>
+</head>
+<body style="font-family: Arial, sans-serif; margin: 30px;">
+
+    <!-- Heading with red arrow -->
+    <h3 style="color:#e74c3c;"><strong>❯ Server Performance Indicators:</strong></h3>
+
+    <!-- Example content -->
+    <ul style="font-size:16px; line-height:1.6;">
+        <li>❯ CPU Usage</li>
+        <li>❯ Memory Utilization</li>
+        <li>❯ Disk I/O & Storage</li>
+        <li>❯ Active Network Connections</li>
+        <li>❯ Application Response Time</li>
+    </ul>
+
+</body>
+</ht
+

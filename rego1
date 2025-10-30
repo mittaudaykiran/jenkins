@@ -1,0 +1,4 @@
+containers:
+  - name: reg001
+    image: nginx:latest
+
