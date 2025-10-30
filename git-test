@@ -13,12 +13,11 @@
     <!-- Example content -->
     <ul style="font-size:16px; line-height:1.6;">
         <li>❯ CPU Usage</li>
-        <li>❯ Memory Utilization</li>
-        <li>❯ Disk I/O & Storage</li>
+	<li>❯ Memory Utilization</li>
+	<li>❯ Disk I/O & Storagnse</li>
         <li>❯ Active Network Connections</li>
         <li>❯ Application Response Time</li>
     </ul>
 
 </body>
 </ht
-
